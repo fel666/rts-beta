@@ -1,4 +1,4 @@
 rts-beta
 ========
 
-private project for an rts
+project for an rts in gamemaker, using u3d
